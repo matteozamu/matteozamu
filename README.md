@@ -1,11 +1,9 @@
-<h1 align="center">👋Hi, I'm Matteo</h1>
-<h3 align="center">A passionate developer and DIY creator from Italy🇮🇹</h3>
+<h1 align="center">👋 Hi, I'm Matteo</h1>
+<h3 align="center">I am a passionate developer and DIY creator from Italy 🇮🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteozamu&label=Profile%20views&color=0e75b6&style=flat" alt="matteozamu" /> </p>
 
 - 🔭 I’m currently working on [MiMove](https://atmmilano.herokuapp.com)🚃
-
-- 🌱 I’m currently learning **Swift**
 
 - 🖥️ Creating **Docker Container**
 
